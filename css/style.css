@@ -238,7 +238,7 @@ header .uk-navbar-container:not(.uk-navbar-transparent) {
 }
 
 header .uk-navbar-nav>li>a {
-    padding: 22px 18px;
+    /* padding: 22px 18px; */
 }
 
 header .uk-navbar-nav>li>a:active,
@@ -261,7 +261,7 @@ header .uk-navbar-nav>li>a.uk-open {
 }
 
 header .uk-navbar-right>ul li:last-child>a {
-    padding-right: 0px;
+    /* padding-right: 0px; */
 }
 
 header .uk-navbar-right div a.uk-button-primary:hover,
