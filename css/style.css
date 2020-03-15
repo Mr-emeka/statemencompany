@@ -1047,7 +1047,12 @@ header.idz-header-alt .uk-navbar-right>ul li>a.uk-open {
     position: relative;
     z-index: 999;
 }
-
+.idz-mobile-nav-alternative{
+    font-size: 16px;
+    color: #ffffff !important;
+    position: relative;
+    z-index: 999;
+}
 
 .idz-mobile-nav.uk-icon>* {
     margin: 0 10px !important;
