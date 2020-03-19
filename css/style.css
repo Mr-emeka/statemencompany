@@ -329,7 +329,7 @@ header .uk-navbar-nav>li .uk-navbar-dropdown ul li:hover i {
 .uk-sticky2 .uk-navbar-right:before {
     width: 70px;
     height: 70px;
-    background: #fff url(../images/logo_header_alt.svg) center center;
+    background: #fff url(../images/tsmc.png) center center;
     background-size: 50px 50px;
     content: "";
 }
